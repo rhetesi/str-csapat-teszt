@@ -28,3 +28,10 @@ Kizárólag a Github tesztelésére
 ![Send invite to the selected collaborator](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/send-invite-to-a-collaborator.jpg)
 
 
+## Váltás új branch-re:
+
+![co-to-new-branch-1](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/checkout-to-new-branch-in-vsc-1.jpg)
+
+![co-2-new-br-2](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/checkout-to-new-branch-in-vsc-2.jpg)
+
+![in-new-br](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/in-the-new-branch.jpg)
