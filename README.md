@@ -26,6 +26,7 @@ Kizárólag a Github tesztelésére
 - adható hozzá a meghívni kívánt Github fiók tulajdonosa
 ![Select somebody](./img/invite-a-collaborator-1.jpg)
 
+- meghívó elküldése
 ![Send invite to the selected collaborator](./img/send-invite-to-a-collaborator.jpg)
 
 
