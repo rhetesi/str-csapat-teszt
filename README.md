@@ -7,11 +7,11 @@ Kizárólag a Github tesztelésére
 - Githubon belépve abba a branch-be, melyből az újat ki akarom ágaztatni, majd a Branch nevét tartalmazó gombra kattintva
   - a megnyíló ablak input mezőjébe beírva az új branch nevét és Enter-t nyomva létrejön a megadott nevű új branch;
 
-  https://github.com/rhetesi/str-csapat-teszt/blob/main/img/create-new-branch-1.jpg
+  ![Create-new-branch-1](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/create-new-branch-1.jpg)
   
-  https://github.com/rhetesi/str-csapat-teszt/blob/main/img/create-new-branch-2.jpg
+  ![Create-new-branch-2](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/create-new-branch-2.jpg)
 
   - s a létrehozást követően a github át is áll az új branch-re.
   
-  https://github.com/rhetesi/str-csapat-teszt/blob/main/img/gh-sets-itself-to-the%20new-branch.jpg
+  ![change-to-new-branch](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/gh-sets-itself-to-the%20new-branch.jpg)
 
