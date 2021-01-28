@@ -19,6 +19,12 @@ Kizárólag a Github tesztelésére
 ## Közreműködő meghívása:
 - A **main** branch-ből a repository neve alatti menüsorban a **Settings** fülre kattintva;
 - majd a megnyíló oldalon a **Manage access**-t választva
-- adható hozzá a meghívni kívánt Github fiók tulajdonosa.
+
+![Manage access](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/invite-sb-to-work-together-with-me-in-my-repo-1.jpg)
+
+- adható hozzá a meghívni kívánt Github fiók tulajdonosa
+![Select somebody](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/invite-a-collaborator-1.jpg)
+
+![Send invite to the selected collaborator](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/send-invite-to-a-collaborator.jpg)
 
 
