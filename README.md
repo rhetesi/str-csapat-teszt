@@ -5,5 +5,6 @@ Kizárólag a Github tesztelésére
 
 ## Branch készítése:
 - Githubon belépve abba a branch-be, melyből az újat ki akarom ágaztatni, majd a Branch nevét tartalmazó gombra kattintva
-  - a megnyíló ablak input mezőjébe beírva az új branch nevét és Enter-t nyomva létrejön a megadott nevű új branch.
+  - a megnyíló ablak input mezőjébe beírva az új branch nevét és Enter-t nyomva létrejön a megadott nevű új branch;
+  - s a létrehozást követően a github át is áll az új branch-re.
 
