@@ -15,3 +15,10 @@ Kizárólag a Github tesztelésére
   
   ![change-to-new-branch](https://github.com/rhetesi/str-csapat-teszt/blob/main/img/gh-sets-itself-to-the%20new-branch.jpg)
 
+
+## Közreműködő meghívása:
+- A **main** branch-ből a repository neve alatti menüsorban a **Settings** fülre kattintva;
+- majd a megnyíló oldalon a **Manage access**-t választva
+- adható hozzá a meghívni kívánt Github fiók tulajdonosa.
+
+
