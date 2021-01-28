@@ -53,3 +53,18 @@ Kizárólag a Github tesztelésére
 ![what-to-add](./img/what-i-want-to-add.jpg)
 
 
+
+### Elkészült fejlesztés beolvasztása felsőbb branch-be (Merge pull request)
+- A benyújtott pull request
+![new-submitted-pq](./img/new-prq-waiting-for-merge.jpg)
+
+- elfogadjuk vagy kommenteljük?
+![merge-or-comment](./img/merge-or-write-comment.jpg)
+
+- elfogadás/merge
+![merge](./img/merge-pq-1.jpg)
+
+- beolvasztva
+![merged](./img/merged-pq.jpg)
+
+:)
